@@ -28,6 +28,13 @@ Sou estudante do **2º semestre do curso de Análise e Desenvolvimento de Sistem
 
 ---
 
+## 📸 Imagens do Projeto
+
+### 💻 Versão Desktop:
+![print-desktop](https://github.com/niveabeh/exercicio-de-aprendizagem-display-grip/blob/main/curso-html-avancado/img-proj/site.png?raw=true)
+
+### 📱 Versão Mobile:
+![print-mobile](https://github.com/niveabeh/exercicio-de-aprendizagem-display-grip/blob/main/curso-html-avancado/img-proj/responsivo.png)
 
 ---
 
